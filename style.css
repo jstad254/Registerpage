@@ -1,0 +1,9 @@
+body {
+    background-color: lightseagreen;
+    top: 0;
+    left: 0;
+    height: 100px;
+    width: 100vw;
+    z-index: 1;
+  }
+ 
